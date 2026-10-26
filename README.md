@@ -73,4 +73,4 @@ Pretrained backbone (ResNet-50 / DINOv2) fine-tuned with multi-task heads:
 
 ---
 
-*See the full planning document (PDF) in this repository for details.*
+*See the Report (PDF) in this repository for details.*
